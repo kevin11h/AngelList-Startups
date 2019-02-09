@@ -32,3 +32,8 @@ sys.argv[3]  # (str) Location to search
 ```python
 python angellist_startups.py 1 1000 "New York City"
 ```
+
+
+Questions
+
+https://www.quora.com/Where-can-I-get-the-AngelList-angel-co-dataset
